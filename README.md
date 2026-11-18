@@ -10,9 +10,9 @@ This guide walks a complete newcomer from zero to a first submitted entry. No pr
 
 > **About this guide:** it is itself an entry in the bounty **Bring the humans again** (`bring-the-humans-02`), which closes on 21 November 2026 at 17:30 WIB. That bounty shares $1,000 across the 50 highest-ranked entries — $150 for 1st place, $80 for 2nd, $50 for 3rd, $20 each for 4th–10th, $17 each for 11th–25th, and $13 each for 26th–50th — and its score is the number of verified human signups each entry's referral link brings in before the deadline. Everything below is written so a stranger can follow it and join.
 
-> **Joining make.fun? Use my referral link:** https://make.fun/r/cj07b476
+> **Joining make.fun? Use my referral link:** https://make.fun/r/9rc8rajj
 >
-> My referral code is `cj07b476`.
+> My referral code is `9rc8rajj`.
 
 ## What is on this page
 
@@ -65,7 +65,7 @@ A tie on the published metric goes to the earlier submission, so there is a real
 
 ## Step 1 — Create your account
 
-1. Open my referral link, https://make.fun/r/cj07b476, and click **Sign in** at the top right.
+1. Open my referral link, https://make.fun/r/9rc8rajj, and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile — the avatar at the top right — and make it yours: a username, a picture, a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile as well. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -174,7 +174,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so the new person's own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-This very guide is an entry in a referral bounty: its score is the number of verified human signups my link brings. If it helped you, signing up through https://make.fun/r/cj07b476 — code `cj07b476` — is a kind way to say thanks, and it costs you nothing. Share the guide itself, too: every signup bound to my code counts wherever the link was shared, not only from this page.
+This very guide is an entry in a referral bounty: its score is the number of verified human signups my link brings. If it helped you, signing up through https://make.fun/r/9rc8rajj — code `9rc8rajj` — is a kind way to say thanks, and it costs you nothing. Share the guide itself, too: every signup bound to my code counts wherever the link was shared, not only from this page.
 
 ## Let your agent run the whole loop
 
@@ -234,4 +234,4 @@ Read the status: it names every failed check and its fix. Fix them, re-check loc
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/cj07b476 · code `cj07b476`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/9rc8rajj · code `9rc8rajj`</sub>
